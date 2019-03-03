@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme = "1950s"
+color_theme = "ocean"
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -50,16 +50,15 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
+email = "jose.dolz@etsmtl.ca"
 phone = "888 888 88 88"
-address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+address = "ETS Montreal, Canada. Office: A-3417"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00"""
+office_hours = """"
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+#appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -88,9 +87,10 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 0
 map_api_key = ""
-latitude = "37.4275"
-longitude = "-122.1697"
+latitude = "45.4945"
+longitude = "73.5622"
 zoom = 15
+
 
 ############################
 ## Plugins                ##

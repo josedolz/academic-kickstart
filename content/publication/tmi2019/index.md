@@ -2,7 +2,7 @@
 title: HyperDense-Net A hyper-densely connected CNN for multi-modal image segmentation 
 date: '2018-05-09T16:39:14+02:00'
 authors:
-  -Jose Dolz
+  - Jose Dolz
 #  - Jose Dolz, Karthik Gopinath, Jing Yuan, Herve Lombaert, Christian Desrosiers, Ismail Ben Ayed
 publication_types:
   - '2'

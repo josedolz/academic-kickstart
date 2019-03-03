@@ -55,7 +55,7 @@ phone = "888 888 88 88"
 address = "ETS Montreal, Canada. Office: A-3417"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """"
+office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
@@ -87,8 +87,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 0
 map_api_key = ""
-#latitude = "45.4945"
-#longitude = "73.5622"
+latitude = "45.4945"
+longitude = "73.5622"
 zoom = 15
 
 

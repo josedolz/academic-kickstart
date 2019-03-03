@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Assistant Professor of Artificial Intelligence"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -25,7 +25,9 @@ email = "jose.dolz@etsmtl.ca"
 interests = [
   "Machine Learning",
   "Computer Vision",
-  "Medical Imaging"
+  "Medical Imaging",
+  "Weakly supervised learning",
+  "Image Semantic Segmentation"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -39,7 +41,7 @@ user_groups = ["Researchers", "Visitors"]
   year = 2016
 
 [[education.courses]]
-  course = "BSc&MEng in Telecommunications and Electronical Eng."
+  course = "B.Sc & M.Eng in Telecommunications and Electronical Eng."
   institution = "Polytechnic University of Valencia, Spain"
   year = 2010
 
@@ -53,7 +55,6 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fas"
   link = "#contact"  # For a direct email link, use "mailto:jose.dolz@etsmtl.ca".
 
-
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
@@ -63,6 +64,12 @@ user_groups = ["Researchers", "Visitors"]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/josedolz"
+  
+ [[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Jose_Dolz" 
+  
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
